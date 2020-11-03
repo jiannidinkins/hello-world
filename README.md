@@ -1,2 +1,3 @@
 # hello-world
-first practice repository
+
+hey humans.. just trying things out here.
